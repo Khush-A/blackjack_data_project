@@ -1,2 +1,2 @@
-# blackjack_data_project
+# Blackjack Data Project
 Blackjack project utilising pandas and matplotlib
